@@ -1,0 +1,65 @@
+Assesement title : 
+design and implementaion of proof of concept system using vertualization technology with technilcal report and demonstration 
+
+weightage : 60%
+
+we need to design and deploy a virtual network hosting the resources (NFS, SMB, DNS, etc ) including dhcp, naming server
+
+we can use any software or hardware to implement/ design this project 
+example : virtual box, aws, azure, openstack clouds, Openshift, Kubernetes, Docker Containers etc
+
+Use of github to commit the code on daily bases for progress
+
+our final report - It is a technical document which discribes our artefact + discribes our learning experience 
+
+Report formats :
+(Project report)(25 Marks)
+-should be maximum of 3000 words
+-format should be high industry level and professional standard
+-include a paragram which descirbes our learning experience 
+
+(Research, analysis and design)(15 Marks):
+-background research and overall understanding of the project subject area
+-quality of the analysis of the project
+-quality of the overall and detailed design of the system which we are implementing.
+
+
+(Completeness and Correctness)(10 Marks): 
+-how complete is your final artefact/proof of concept 
+-valid or not 
+
+Achievement (10 Marks) :
+-usability of the final project , which includes final artefact + report 
+
+Project management (10 Marks):
+-how successfuly you carry out your project 
+
+Presentation (30 Marks):
+-quality of the presentation 
+-10 min presentation 
+-demo of yuour artefact 10 min 
+question answering section for 10 min
+
+refere harvard style referencing 
+
+
+Technolgy which we can use :
+● Network File System (NFS)
+● Server Message Block (SMB)
+● Domain Name System (DNS)
+● Kerberos Authentication
+● Network Information Service (NIS)
+● Lightweight Directory Access Protocol (LDAP)
+● Pluggable Authentication Module (PAM)
+● Secure File Transfer Protocol (SFTP)
+● WebNFS
+● OpenSSH & OpenVPN
+● Container managers
+● Web services
+● Cloud technologies
+● Private clouds
+● Peer-to-peer systems
+● Build Automation
+● Software Defined Networking
+
+
