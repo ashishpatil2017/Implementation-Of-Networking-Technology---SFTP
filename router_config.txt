@@ -1,0 +1,8 @@
+Commands for network configuration in router :
+enable
+config t 
+interface Eth1/2 
+ip address 192.186.60.1 255.255.255.0
+no shutdown 
+exit
+exit
