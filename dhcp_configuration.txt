@@ -1,0 +1,11 @@
+DHCP server configuration commands :
+ip dhcp pool IP10 (congiguration command for dhcp)
+net 192.168.10.0 255.255.255.0 (giving name to the network with subnet mask)
+default 192.168.10.1 (setting default means first end device will assign this ip address)
+exit 
+
+excluding top 10 address if you want :
+ip dhcp exc 192.168.10.1 192.168.10.10
+exit 
+copy run start 
+sh run (to check configuration of dhcp)

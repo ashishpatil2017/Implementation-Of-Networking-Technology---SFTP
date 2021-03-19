@@ -6,3 +6,5 @@ ip address 192.186.60.1 255.255.255.0
 no shutdown 
 exit
 exit
+
+

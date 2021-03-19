@@ -1,0 +1,22 @@
+Learning Path : 
+class a,b,c tables : https://en.wikipedia.org/wiki/Classful_network
+subnettinghttps://docs.microsoft.com/en-us/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting
+
+Understood below keywords :
+lan , man , wan networks
+private networks 
+subents 
+subnet masks 
+router 
+end devices 
+switches 
+hubs 
+server 
+subnet ip address 
+ip address 
+
+three classes 
+class a (0 - 127)
+class b (128-191)
+class c (192-223)
+
